@@ -111,7 +111,7 @@ The cause of the initial failure and VPN behavior after a fresh start remain und
 4. Review the topology and follow the documented tests.
 
 ## Project Documents
-
+- [Configuration Change Log](docs/change-log.md)
 - [Network Proposal](Ozark_Network_Proposal.pdf)
 - [Network Topology Document](Ozark_Network_Topology.pdf)
 - [Network Topology Image](Network-topology-map.png)
