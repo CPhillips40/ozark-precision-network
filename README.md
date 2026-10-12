@@ -35,7 +35,7 @@ Feature operation will be documented as testing is completed.
 
 ## Opening the lab
 
-Download the `.pkt` file from this repository and open it in Cisco Packet Tracer.
+[Download the Packet Tracer lab](Ozark_Precision_Network.pkt)
 
 ## Planned additions
 
