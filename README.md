@@ -43,7 +43,27 @@ Feature operation will be documented as testing is completed.
 - Network proposal and topology documentation
 - Configuration change log
 - Screenshots and test results
+  
+## Verified test results
 
+Tests performed from HQ-PC1 (192.168.10.102).
+
+| Test | Destination | Result |
+|---|---|---|
+| HQ gateway connectivity | 192.168.10.100 | 4/4 replies, 0% loss |
+| HQ server connectivity | 192.168.10.50 | 4/4 replies, 0% loss |
+| Simulated Internet connectivity | 8.8.8.8 | 4/4 replies, 0% loss |
+| NAT translation | 192.168.10.102 → 201.45.66.98 | Confirmed in router translation table |
+
+### Test evidence
+
+- [Gateway ping](hq-gateway-ping.png)
+- [Server ping](hq-server-ping.png)
+- [Simulated Internet ping](hq-internet-ping.png)
+- [NAT translations](hq-nat-translations.png)
+
+Branch connectivity, wireless security, guest isolation, voice calls,
+and failover testing remain pending.
 ## Contact
 
 Cody Phillips  
