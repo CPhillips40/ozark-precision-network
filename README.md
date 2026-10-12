@@ -9,6 +9,10 @@ A Cisco Packet Tracer lab for a fictional manufacturing company with three busin
 
 This project is adapted from a provided starter topology and configuration. My work focuses on personalizing the company scenario, reviewing the network, making configuration changes, and documenting test results.
 
+## Network Topology
+
+![Ozark Precision Manufacturing network topology](Network-topology-map.png)
+
 ## Locations
 
 - Headquarters
