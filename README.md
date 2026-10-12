@@ -57,10 +57,10 @@ Tests performed from HQ-PC1 (192.168.10.102).
 
 ### Test evidence
 
-- [Gateway ping](hq-gateway-ping.png)
-- [Server ping](hq-server-ping.png)
-- [Simulated Internet ping](hq-internet-ping.png)
-- [NAT translations](hq-nat-translations.png)
+- [Gateway Ping](hq-gateway-ping.png)
+- [Server Ping](hq-server-ping.png)
+- [Simulated Internet Ping](hq-internet-ping.png)
+- [NAT Translations](hq-nat-translations.png)
 
 Branch connectivity, wireless security, guest isolation, voice calls,
 and failover testing remain pending.
